@@ -1,5 +1,5 @@
 {
-  "name": "TG File Sharing Bot",
+  "name": "MSD TAMIL SERIAL BOTS",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/MayilGaming/MSDTamilSerialsBots",
-  "logo": "https://telegra.ph/file/13a944fefd168544560fd.jpg",
+  "logo": "https://i.postimg.cc/kXXbR3X8/IMG-20220821-102417-317.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
